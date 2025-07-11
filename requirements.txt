@@ -1,0 +1,11 @@
+pyttsx3
+pyautogui
+pygetwindow
+text2emotion
+openai
+duckduckgo_search
+sounddevice
+vosk
+opencv-python
+deepface
+tk
